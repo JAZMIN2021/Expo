@@ -1,4 +1,4 @@
-# Expo
+# Exposicion
 Exposición Sensor 
 
 

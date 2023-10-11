@@ -1,8 +1,4 @@
-
-- [Sección 1](#sección-1)
-- [Sección 2](#sección-2)
-- [Sección 3](#sección-3)
-
+Vargas Vargas Jazmin Angelica 20212436
 
 # Board ssd1306 
 

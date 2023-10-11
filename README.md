@@ -51,7 +51,7 @@ Es compatible con una variedad de microcontroladores y microprocesadores, así c
 
 [Enlace al README de Repositorio 2 ](https://github.com/JAZMIN2021/Expo/blob/ef8297f5a92b70bdf8b556e86c3665dadd2a42fc/2.1/blob/main/README.md)
 
-[Enlace al README del Segundo Repositorio](2.1.md)
+[Enlace al README del Segundo Repositorio](2.1)
 
 
 

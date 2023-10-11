@@ -51,7 +51,7 @@ Es compatible con una variedad de microcontroladores y microprocesadores, así c
 
 [Enlace al README de Repositorio 2 ](https://github.com/JAZMIN2021/Expo/blob/ef8297f5a92b70bdf8b556e86c3665dadd2a42fc/2.1/blob/main/README.md)
 
-[Enlace al README del Segundo Repositorio](https://github.com/JAZMIN2021/Expo/blob/942249910e2c9968cb302bc7430100918f7ebb49/2.1%20Practica%20Hola%20Mundo%20y%20la%20Hora%20de%20Internet/README.md)
+[Enlace al README del Segundo Repositorio](https://github.com/JAZMIN2021/Expo/blob/c058bf5842f725a4dddc5316921177081eb12b65/2.1/README.md)
 
 
 

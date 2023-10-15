@@ -1,5 +1,5 @@
 Vargas Vargas Jazmin Angelica 20212436
-
+# Hola Mundo
 # Board ssd1306 
 
 La placa SSD1306 es un controlador de pantalla OLED (Organic Light-Emitting Diode) que se utiliza en una variedad de pantallas OLED monocromáticas de 128x64 y 128x32 píxeles. Este controlador es fabricado por la empresa __Solomon Systech__, una compañía que se especializa en la fabricación de controladores de pantalla y semiconductores. 

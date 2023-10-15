@@ -47,7 +47,7 @@ Es compatible con una variedad de microcontroladores y microprocesadores, así c
 4. Plataformas de desarrollo basadas en ARM
 5. Placas de desarrollo personalizadas
 6. Plataformas de desarrollo basadas en microcontroladores AVR
-![Board ssd1306 ](https://programarfacil.com/wp-content/uploads/2020/01/modulo-ssd1306-pantalla-oled-arduino.jpg)
+![B](https://programarfacil.com/wp-content/uploads/2020/01/modulo-ssd1306-pantalla-oled-arduino.jpg)
 
 
 

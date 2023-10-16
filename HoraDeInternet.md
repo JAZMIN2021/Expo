@@ -1,10 +1,10 @@
 Vargas Vargas Jazmin Angelica 20212436
 
-### Horo WIFI
+### Hora WIFI
 
-- ![Hora de Internet](![image](https://github.com/JAZMIN2021/Expo/assets/79472215/6d8ea2b8-1e49-47e0-bfcc-c3e308f55cde)
+![Hora de Internet](https://github.com/JAZMIN2021/Expo/assets/79472215/6d8ea2b8-1e49-47e0-bfcc-c3e308f55cde)
   
-  --Utiles
+  -- Utiles
 - [x] Raspberry Pi
 - [x]  Protoboard
 - [x] Oled 1306

@@ -1,12 +1,9 @@
 Vargas Vargas Jazmin Angelica 20212436
 
-### Hora WIFI
-
-![image](https://github.com/JAZMIN2021/Expo/assets/79472215/1c745c6f-1e22-4458-a9d7-6b68df01bded)
-![image](https://github.com/JAZMIN2021/Expo/assets/79472215/55cb0c0c-5f11-486e-9bee-48f15e2a6c3c)
-![image](https://github.com/JAZMIN2021/Expo/assets/79472215/935fdd23-44dc-4413-9ed3-9fca0427f9b0)
-
-
+### Temperatura
+![image](https://github.com/JAZMIN2021/Expo/assets/79472215/a58bf706-837b-495e-b771-4f0f531f62e4)
+![image](https://github.com/JAZMIN2021/Expo/assets/79472215/d6375147-ebeb-485d-be8b-05f532ad81d5)
+![image](https://github.com/JAZMIN2021/Expo/assets/79472215/2f3042ec-8a7c-43a6-b242-7c8e7da59f8f)
   
   -- Utiles
 - [x] Raspberry Pi
@@ -15,7 +12,8 @@ Vargas Vargas Jazmin Angelica 20212436
 - [x] Cable Micro US
   
 - [Ejemplo de Código en Thonny](#ejemplo-de-c%C3%B3digo)
- 
+ ![image](https://github.com/JAZMIN2021/Expo/assets/79472215/1f946b21-1bf5-4f68-a6b5-4782b4ce297b)
+
   Utilizando Python 
 ```python
 from machine import ADC
@@ -72,18 +70,17 @@ frio = [0x00, 0x00, 0x00, 0x00, 0x00, 0x7f, 0x80, 0x00, 0x00, 0xff, 0xf0, 0x00, 
 sensor = ADC(4)
 while True:
     valor = sensor.read_u16()*3.3/65535
-    temp = 22-(valor-0.706)/0.001721
-    if temp>=27:
+    temp = 25-(valor-0.706)/0.001721
+    if temp>=23:
         img=framebuf.FrameBuffer(bytearray(calor), 30,30, framebuf.MONO_HLSB)
-        oled.blit(img,45,32)
-    elif temp>28:
+        oled.text("Calor.", 55,40)
+        oled.blit(img,10,15)
+    elif temp>22:
          img=framebuf.FrameBuffer(bytearray(calido), 30, 30, framebuf.MONO_HLSB)
-         oled.blit(img,45,32)
+         oled.text("Calido.",55,40)
+         oled.blit(img,10,15)
     else:
         img=framebuf.FrameBuffer(bytearray(frio), 30, 30, framebuf.MONO_HLSB)
-        oled.blit(img,45,32)
+        oled.text("Mucho Frio.",40 ,40)
+        oled.blit(img,10,15)
     print(temp)
-    
-    oled.show()
-    utime.sleep(0.3)
-    oled.fill(0)

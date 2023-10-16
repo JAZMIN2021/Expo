@@ -1,9 +1,10 @@
 Vargas Vargas Jazmin Angelica 20212436
 
 ### Temperatura
-![image](https://github.com/JAZMIN2021/Expo/assets/79472215/a58bf706-837b-495e-b771-4f0f531f62e4)
-![image](https://github.com/JAZMIN2021/Expo/assets/79472215/d6375147-ebeb-485d-be8b-05f532ad81d5)
-![image](https://github.com/JAZMIN2021/Expo/assets/79472215/2f3042ec-8a7c-43a6-b242-7c8e7da59f8f)
+![image](https://github.com/JAZMIN2021/Expo/assets/79472215/2fcb3066-e278-4cbe-8c3c-fa3b507317e7)
+![image](https://github.com/JAZMIN2021/Expo/assets/79472215/7c5af3e5-d5d9-4db1-bff7-d2b330dde917)
+![image](https://github.com/JAZMIN2021/Expo/assets/79472215/2ec5a697-e20a-4995-9fe5-5936baa54556)
+
   
   -- Utiles
 - [x] Raspberry Pi

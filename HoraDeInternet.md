@@ -10,8 +10,8 @@ Vargas Vargas Jazmin Angelica 20212436
 - [x] Oled 1306
 - [x] Cable Micro US
   
-- [Codigo en Wokki](#recursos-adicionales)
-![image](https://github.com/JAZMIN2021/Expo/assets/79472215/d55cda7d-9a2b-4496-8166-ef6df42dd6b0)
+//- [Codigo en Wokki](#recursos-adicionales)
+//![image](https://github.com/JAZMIN2021/Expo/assets/79472215/d55cda7d-9a2b-4496-8166-ef6df42dd6b0)
 
 - [Ejemplo de Código en Thonny](#ejemplo-de-c%C3%B3digo)
  
